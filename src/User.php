@@ -1,6 +1,5 @@
 <?php
 
-//
 namespace Marcell\ComposerElso;
 
 use Marcell\ComposerElso\Animals\Tiger;
