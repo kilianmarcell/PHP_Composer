@@ -10,3 +10,4 @@ require "../vendor/autoload.php";
 
 $user = new User();
 $user -> kiir();
+$user -> newPet() -> roar();
