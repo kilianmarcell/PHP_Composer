@@ -1,0 +1,11 @@
+{
+    "name": "marcell/composer_elso",
+    "description": "Elso composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Marcell\\ComposerElso\\": "src/"
+        }
+    },
+    "require": {}
+}
